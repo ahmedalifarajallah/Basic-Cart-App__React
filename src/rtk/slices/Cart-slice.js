@@ -1,5 +1,4 @@
 import { createSlice } from "@reduxjs/toolkit";
-import productsSlice from "./products-slice";
 
 const cartSlice = createSlice({
   initialState: [],
