@@ -9,7 +9,7 @@ function NavbarApp() {
     <Navbar expand="lg" className="bg-body-tertiary mb-5">
       <Container>
         <Link to="/" className="navbar-brand">
-          Cart-App
+          Basic-Cart-App
         </Link>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
