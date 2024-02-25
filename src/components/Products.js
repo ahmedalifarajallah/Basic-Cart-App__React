@@ -11,7 +11,7 @@ function Products() {
 
   useEffect(() => {
     dispatch(fetchProducts());
-  }, []);
+  }, [dispatch]);
 
   return (
     <Container>
